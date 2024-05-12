@@ -5,4 +5,3 @@ The Testing Facebook Presentation.pptx file contains the presentation of the who
 
 The Facebook Test Data Set.xlsx file contains every Test Case performed along with the corresponding data for each test. 
 
-In order to view the files, click file name > click View Raw and check the Downloads section in your browser. 
